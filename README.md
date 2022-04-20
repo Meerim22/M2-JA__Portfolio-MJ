@@ -1,6 +1,10 @@
-1. Навигационная панель реализована в виде компонента Header или Navbar	- \task-19\src\components\Header
-2. Навигация полносью адаптировано под разные устройства - \task-19\src\components\Header\header.scss
-3. Для	стилей используется **scss** синтаксис - \task-19\src\ ну там сразу видно
-4. Для	маршрутизации и навигации используются библиотека **react-router-dom -** - \task-19\src\components\Header\Header.jsx
+**Задание 20**
 
-<a href="https://drive.google.com/drive/folders/18u74QY2Xe2QrQPAZAn63bBbzYzsBGdzG?usp=sharing">Адаптация</a>
+1. Имя, фамилия владельца портфолио размечена тегов заголовка — \M2-JA__Portfolio-MJ\src\pages\Home\Home.jsx Line-9
+2. Позицию на которую претендует автор портфолио — \M2-JA__Portfolio-MJ\src\pages\Home\Home.jsx Line-10
+3. Изображение автора, с заполненным атрибутом alt  — \M2-JA__Portfolio-MJ\src\pages\Home\Home.jsx Line-8
+4. Короткий абзац текста описывающий автора — \M2-JA__Portfolio-MJ\src\pages\Home\Home.jsx Line-11
+5. Блок содержащий на контактные страницы социальных сетей автора, для иконок используется библиотека React Icons – \M2-JA__Portfolio-MJ\src\pages\Home\Home.jsx Line-2-3-14-15
+6. Страница адаптировано — \M2-JA__Portfolio-MJ\src\pages\Home\Home.scss
+
+<a href="https://drive.google.com/drive/folders/18gv3gzfEZbqWWaU7FIfucagyl0pVReSc?usp=sharing">Адаптация</a>
