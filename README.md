@@ -11,4 +11,8 @@
 
 **Задание 21**
 
-Задание 21 в сможете проверить благодаря этим<a href="https://drive.google.com/drive/folders/1RVcrNxMl5vrge4_jaE37_Yc-S-pnILQC?usp=sharing"> картинам</a>
+Задание 21 вы сможете проверить благодаря этим<a href="https://drive.google.com/drive/folders/1RVcrNxMl5vrge4_jaE37_Yc-S-pnILQC?usp=sharing"> картинам</a>
+
+**Задание 22**
+
+Задание 22 вы сможете проверить благодаря этим<a href="https://drive.google.com/drive/folders/1Fah1mqE9KneJZCXhCYd_5lzXJGhDlr7S?usp=sharing"> картинам и видео</a>

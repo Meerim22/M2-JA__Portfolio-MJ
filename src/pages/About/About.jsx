@@ -1,12 +1,13 @@
 import "./about.scss";
+import {motion} from 'framer-motion';
 
 function About() {
   return (
     <div className="about">
-      <h1 className="about__h1">About my career</h1>
+      <motion.h1 initial={{y: -1000, opacity:0}} animate={{y:0, opacity:1}} transition={{duration: 0.8, ease: 'easeOut'}} className="about__h1">About my career</motion.h1>
       <div className="about__container">
         <div className="about__cnt">
-          <h2 className="about__h2">My soft skills</h2>
+          <motion.h2 initial={{x: 3000, opacity:0}} animate={{x:0, opacity:1}} transition={{delay: 1, duration: 0.8, ease: 'easeOut'}} className="about__h2">My soft skills</motion.h2>
           <div className="about__item">
             <p className="about__title">HTML</p>
             <div className="about__star-div">
@@ -59,7 +60,7 @@ function About() {
           </div>
         </div>
         <div className="about__cnt about__m-t">
-          <h2 className="about__h2">My projects</h2>
+          <motion.h2 initial={{x: -1000, opacity:0}} animate={{x:0, opacity:1}} transition={{delay: 1, duration: 0.8, ease: 'easeOut'}} className="about__h2">My projects</motion.h2>
           <div className="about__item">
             <p className="about__title">WebSMART</p>
             <p className="about__pj-text">This is a site I created for my first team, under the name "WebSMART"</p>

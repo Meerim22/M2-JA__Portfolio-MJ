@@ -8,7 +8,7 @@ function Header() {
     return (
         <header className="header">
             <nav className="nav">
-                <a className="nav__logo" href="#"><span class="nav__logo-icon">MJ</span> <span class="nav__logo-h">Mika J</span></a>
+                <a className="nav__logo" href="/#"><span class="nav__logo-icon">MJ</span> <span class="nav__logo-h">Mika J</span></a>
                 <div className="nav__menu">
                     <button class="nav__logo-btn">FrontEnd <span class="nav__logo-h">разработчик</span></button>
                     <ul className="nav__menu-ul">  {/* {(isActive) => isActive ? "nav__menu-ul" : "nav__menu-ul--show"} */}
