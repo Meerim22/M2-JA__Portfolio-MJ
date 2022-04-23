@@ -8,3 +8,7 @@
 6. Страница адаптировано — \M2-JA__Portfolio-MJ\src\pages\Home\Home.scss
 
 <a href="https://drive.google.com/drive/folders/18gv3gzfEZbqWWaU7FIfucagyl0pVReSc?usp=sharing">Адаптация</a>
+
+**Задание 21**
+
+Задание 21 в сможете проверить благодаря этим<a href="https://drive.google.com/drive/folders/1RVcrNxMl5vrge4_jaE37_Yc-S-pnILQC?usp=sharing"> картинам</a>
