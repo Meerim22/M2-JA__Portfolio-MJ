@@ -1,0 +1,18 @@
+.posts{
+    padding: 0;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    &__title, &__text{
+        text-transform: capitalize;
+    }
+    
+    &-item{
+        border-radius: 15px;
+        border: 1px solid #b769ff;
+        padding: 20px;
+        list-style: none;
+        min-width: 45%;
+        margin: 10px;
+    }
+}

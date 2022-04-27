@@ -1,0 +1,22 @@
+
+.pagination{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+    
+    &__item{
+        list-style: none;
+        border: 1px solid #b769ff;
+        border-radius: 3px;
+        padding: 5px 10px;
+        text-decoration: none;
+    }
+
+    &__item-a{
+        text-decoration: none;
+    }
+}
+
+nav{
+    text-align: center;
+}

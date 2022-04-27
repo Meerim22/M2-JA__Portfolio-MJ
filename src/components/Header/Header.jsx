@@ -5,6 +5,23 @@ const activeLink = ({ isActive }) =>
     isActive ? "navlink active-link" : "navlink";
 
 function Header() {
+    // const menuToggler = document.querySelector(".nav__logo-btn");
+    // const nav = document.querySelector(".nav");
+    // const menu = document.querySelector(".nav__menu-ul");
+    // const menuItem = document.querySelectorAll(".nav__menu-item");
+
+    // menuToggler.addEventListener("click", function () {
+    //     nav.classList.toggle("nav__nav-px");
+    //     menu.classList.toggle("have");
+    //     menuToggler.classList.add("hide");
+    // });
+
+    // menuItem[0].addEventListener("click", function () {
+    //     menuToggler.classList.remove("hide");
+    //     menu.classList.remove("have");
+    //     nav.classList.remove("nav__nav-px");
+    // });
+
     return (
         <header className="header">
             <nav className="nav">
@@ -19,7 +36,10 @@ function Header() {
                             <NavLink to="/about" className={(isActive) => isActive ? "nav-link active-link" : "nav-link"} >About</NavLink>
                         </li>
                         <li className="nav__menu-item" type="button">
-                        <NavLink to="/contacts" className={(isActive) => isActive ? "nav-link active-link" : "nav-link"} >Contacts</NavLink>
+                            <NavLink to="/contacts" className={(isActive) => isActive ? "nav-link active-link" : "nav-link"} >Contacts</NavLink>
+                        </li>
+                        <li className="nav__menu-item" type="button">
+                            <NavLink to="/blog" className={(isActive) => isActive ? "nav-link active-link" : "nav-link"} >Posts</NavLink>
                         </li>
                     </ul>
                 </div>

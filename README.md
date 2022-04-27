@@ -16,3 +16,7 @@
 **Задание 22**
 
 Задание 22 вы сможете проверить благодаря этим<a href="https://drive.google.com/drive/folders/1Fah1mqE9KneJZCXhCYd_5lzXJGhDlr7S?usp=sharing"> картинам и видео</a>
+
+**Задание 23**
+
+Задание 23 вы сможете проверить благодаря этому<a href="https://drive.google.com/file/d/1Llj9DzgLh8OckU-aBXyWaBZKwKxxfTjK/view?usp=sharing"> видео</a>. Вам стоит скачать видео.
